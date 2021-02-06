@@ -7,14 +7,6 @@ Edite the **dash_plugin.txt** to change the COM port of the arduino on your PC.
 install the MPC2515 library and upload the code to the arduino. 
 
 # Arduino pinout:
-| Arduino | MCP2515 |
-| GND | GND |
-| 5V  | 5V  |
-| D2  | INT |
-| D10 | CS  |
-| D11 | SI  |
-| D12 | SO  |
-| D13 | SCK |
 ![arduino pinout](https://github.com/autowp/arduino-mcp2515/blob/master/examples/wiring.png)
 
 
