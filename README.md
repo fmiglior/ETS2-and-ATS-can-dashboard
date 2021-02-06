@@ -15,7 +15,7 @@ install the MPC2515 library and upload the code to the arduino.
 | D11 | SI  |
 | D12 | SO  |
 | D13 | SCK |
-!(https://github.com/autowp/arduino-mcp2515/blob/master/examples/wiring.png)
+![arduino pinout](https://github.com/autowp/arduino-mcp2515/blob/master/examples/wiring.png)
 
 
 ## next steps:
