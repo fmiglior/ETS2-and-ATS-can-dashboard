@@ -1,6 +1,8 @@
 ## ETS2-and-ATS-can-dashboard
 Using a can-bus PSA CAN204 dashboard on the ETS2 and ATS game
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lG8vgPQhhsA/0.jpg)](https://www.youtube.com/watch?v=lG8vgPQhhsA)
+
 ## How to install:
 copy the **dash_plugin.dll** and **dash_plugin.txt** to your ATS/ETS2 plugin folder, ...\bin\win_x86\plugins or ...\bin\win_x64\plugins.
 
